@@ -2,10 +2,7 @@
 -🔭 I’m currently working on NodeJS Backend Development
 
 -🌱 I’m currently learning C++ Development
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=any-ket&show_icons=true&theme=ADD_THEME_HERE" height=200 >
-  
-  <br/>
+<div>  
   <br/>
 
   <a href="https://github.com/any-ket?tab=repositories">
