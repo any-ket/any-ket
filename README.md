@@ -1,7 +1,4 @@
-### Hi there 👋
--🔭 I’m currently working on NodeJS Backend Development
 
--🌱 I’m currently learning C++ Development
 <div>  
   <br/>
 
